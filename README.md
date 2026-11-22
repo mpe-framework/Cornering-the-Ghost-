@@ -151,3 +151,9 @@ The comparison holds everywhere but one step. A teleporter without correction de
 Start here: Bennett et al. (1993), Phys. Rev. Lett. 70, 1895. Zurek (2003), Rev. Mod. Phys. 75, 715. Zurek (2009), Nature Physics 5, 181. Marletto, Vedral et al. (2021), Science Advances 7, eabe4742. For pictures instead of algebra: Coecke and Kissinger (2017), Picturing Quantum Processes.
 
 Also cited: Abramsky (2013), "Relational Databases and Bell's Theorem," LNCS 8000, 13. Abramsky and Coecke (2004), LICS. Barrett et al. (2004), Nature 429, 737. Bell (1964), Physics 1, 195. Bouwmeester et al. (1997), Nature 390, 575. Brassard, Braunstein and Cleve (1998), Physica D 120, 43. Choi (1975), Linear Algebra Appl. 10, 285. Coecke, Sadrzadeh and Clark (2010), Linguistic Analysis 36, 345. Einstein (1905), Annalen der Physik 17, 891. Ellis and Rothman (2010), Int. J. Theor. Phys. 49, 988. Englert (1996), Phys. Rev. Lett. 77, 2154. Everett (1957), Rev. Mod. Phys. 29, 454. Gottesman and Chuang (1999), Nature 402, 390. Kim et al. (2000), Phys. Rev. Lett. 84, 1. Lambek (1999), LNCS 1582, 1. Lewis (1979), Noûs 13, 455. Lo, Sadrzadeh and Mansfield (2024), arXiv:2412.16806. Page and Wootters (1983), Phys. Rev. D 27, 2885. Riebe et al. (2004), Nature 429, 734. Ursin et al. (2004), Nature 430, 849.
+
+---
+
+**Responses welcome.** If you think something here is wrong, have a better source, or have run a related test, open an issue: [github.com/mpe-framework/Cornering-the-Ghost-/issues](https://github.com/mpe-framework/Cornering-the-Ghost-/issues). Corrections are especially welcome. Every claim is labeled so you can tell which ones are load-bearing.
+
+A companion essay, on language and the machine, is in progress.
