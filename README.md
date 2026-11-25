@@ -156,4 +156,4 @@ Also cited: Abramsky (2013), "Relational Databases and Bell's Theorem," LNCS 800
 
 **Responses welcome.** If you think something here is wrong, have a better source, or have run a related test, start a conversation in [Discussions](https://github.com/mpe-framework/Cornering-the-Ghost-/discussions), or open an [issue](https://github.com/mpe-framework/Cornering-the-Ghost-/issues) for a specific correction. Corrections are especially welcome. Every claim is labeled so you can tell which ones are load-bearing.
 
-A companion essay, on language and the machine, is in progress.
+**The companion essay:** [They Ran a Bell Test on a Language Model](https://github.com/mpe-framework/They-Ran-a-Bell-Test), on language and the machine.
